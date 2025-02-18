@@ -120,7 +120,7 @@ export default function About() {
                     title: "부트캠프",
                     icon: BookOpen,
                     content:
-                      "2023.07 - 2023.12: 백엔드 초격자 캠프\n- Django, FastAPI 기반 웹 서버 개발\n- 데이터베이스 설계 및 최적화\n- RESTful API 설계 및 구현\n- AWS 클라우드 인프라 구축 및 NCP, Docker사용",
+                      "2024.08 - 2025.3: 백엔드 초격자 캠프\n- Django, FastAPI 기반 웹 서버 개발\n- 데이터베이스 설계 및 최적화\n- RESTful API 설계 및 구현\n- AWS 클라우드 인프라 구축 및 NCP, Docker사용",
                   },
                 ].map((item, index) => (
                   <motion.div
