@@ -10,7 +10,7 @@ import { motion, AnimatePresence } from "framer-motion"
 
 const projects = [
     {
-    "title": "삼색고양이 - 웹툰 플랫폼 연결 서비스",
+    "title": "툰츄 - 웹툰 플랫폼 연결 서비스",
     "description": "사용자와 다양한 웹툰 플랫폼을 연결하는 웹사이트로, 태그 기반 웹툰 추천 및 작가 마케팅 지원 기능을 제공합니다.",
     "tech": ["Django", "React", "PostgreSQL", "AWS"],
     "features": ["태그 기반 웹툰 추천 시스템", "다중 플랫폼 연동", "작가 마케팅 도구", "반응형 UI 디자인"],
