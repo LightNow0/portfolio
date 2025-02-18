@@ -101,6 +101,9 @@ export default function About() {
               <div className="flex items-center gap-2 justify-center mt-4">
                 <span className="text-xl opacity-80">대전 거주</span>
               </div>
+              <div>
+                <span className="text-xl opacity-80">010.8915.2670</span>
+              </div>
 
               {/* Additional Information Cards */}
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
